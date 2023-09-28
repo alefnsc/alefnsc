@@ -1,7 +1,7 @@
 
 # Alexandre Fonseca
 
-- 🔭 Senior Cloud Analist at Accenture
+- 🔭 Senior Cloud Analyst at Accenture
 - 🌱 Javascript Specialist 
 - 👯 Salesforce Marketing Cloud Personalization and Data Cloud Enthusiast
 - ⚡ CSJS | SSJS | Node.Js | React 
@@ -22,17 +22,17 @@
 </a>
 
 <br>
-<a href="https://github.com/alefnsc/product-api">
-  <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=product-api&theme=dark" />
-</a>
 <a href="https://github.com/alefnsc/oAuth">
   <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=oAuth&theme=dark" />
 </a>
-<br>
-
 <a href="https://github.com/alefnsc/petshop-api">
   <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=petshop-api&theme=dark" />
 </a>
+<br>
+<a href="https://github.com/alefnsc/product-api">
+  <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=product-api&theme=dark" />
+</a>
+
 <a href="https://github.com/alefnsc/bookstore-api">
   <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=bookstore-api&theme=dark" />
 </a>
