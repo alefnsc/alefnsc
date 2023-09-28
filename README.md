@@ -6,8 +6,8 @@
 - 📌 Salesforce Marketing Cloud Personalization and Data Cloud Enthusiast
 - 📌 CSJS | SSJS | Node.JS | React.JS
 
-        ### Social Media
-        <div class="badge">
+### Social Media
+<div class="badge">
             <a href="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
                 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce">
             </a>
@@ -18,8 +18,8 @@
             </a>
         </div>
 
-        ### Technologies
-        <div class="badge">
+### Technologies
+<div class="badge">
             <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
                 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
             </a>
