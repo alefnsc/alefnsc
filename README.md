@@ -15,22 +15,22 @@
 </a>
 <br>
 <a href="https://github.com/alefnsc/mcp-assets">
-  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=mcp-assets&theme=dark" />
+  <img height=150 width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=mcp-assets&theme=dark" />
 </a>
 <a href="https://github.com/alefnsc/bookstore-api">
-  <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=bookstore-api&theme=dark" />
+  <img height=150 width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=bookstore-api&theme=dark" />
 </a>
 <br>
 <a href="https://github.com/alefnsc/product-api">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=product-api&theme=dark" />
+  <img height=150 width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=product-api&theme=dark" />
 </a>
 <a href="https://github.com/alefnsc/oAuth">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=oAuth&theme=dark" />
+  <img height=150 width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=oAuth&theme=dark" />
 </a>
 <br>
 <a href="https://github.com/alefnsc/frontend_4_em_linha">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=frontend_4_em_linha&theme=dark" />
+  <img height=150 width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=frontend_4_em_linha&theme=dark" />
 </a>
 <a href="https://github.com/alefnsc/petshop-api">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=petshop-api&theme=dark" />
+  <img height=150 width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=petshop-api&theme=dark" />
 </a>
