@@ -1,12 +1,61 @@
 
 # Alexandre Fonseca
 
-- 🔭 Senior Cloud Analyst at Accenture
-- 🌱 Javascript Specialist 
-- 👯 Salesforce Marketing Cloud Personalization and Data Cloud Enthusiast
-- ⚡ CSJS | SSJS | Node.JS | React.JS 
+- 📌 Senior Cloud Analyst at Accenture
+- 📌 Javascript Specialist 
+- 📌 Salesforce Marketing Cloud Personalization and Data Cloud Enthusiast
+- 📌 CSJS | SSJS | Node.JS | React.JS
 
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .category {
+            margin: 20px;
+        }
+        .category h2 {
+            font-size: 24px;
+        }
+        .badge {
+            display: inline-block;
+            margin: 10px;
+        }
+        .badge a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="category">
+        ### Social Media
+        <div class="badge">
+            <a href="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
+                <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce">
+            </a>
+        </div>
+        <div class="badge">
+            <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+            </a>
+        </div>
+    </div>
 
+    <!-- Categoria: Tecnologias -->
+    <div class="category">
+        <h2>Technologies</h2>
+        <div class="badge">
+            <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+            </a>
+        </div>
+        <div class="badge">
+            <a href="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+                <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+            </a>
+        </div>
+    </div>
+  
 <a href="https://github.com/alefnsc/">
   <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=true" />
 </a>
@@ -19,20 +68,4 @@
 </a>
 <a href="https://github.com/alefnsc/frontend_4_em_linha">
   <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=frontend_4_em_linha&theme=dark" />
-</a>
-
-<br>
-<a href="https://github.com/alefnsc/oAuth">
-  <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=oAuth&theme=dark" />
-</a>
-<a href="https://github.com/alefnsc/petshop-api">
-  <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=petshop-api&theme=dark" />
-</a>
-<br>
-<a href="https://github.com/alefnsc/product-api">
-  <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=product-api&theme=dark" />
-</a>
-
-<a href="https://github.com/alefnsc/bookstore-api">
-  <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=bookstore-api&theme=dark" />
 </a>
