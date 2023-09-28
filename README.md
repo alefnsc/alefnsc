@@ -8,10 +8,10 @@
 
 
 <a href="https://github.com/alefnsc/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=true" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/alefnsc/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefnsc&theme=dark" />
+  <img height=200 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefnsc&theme=dark" />
 </a>
 <br>
 <a href="https://github.com/alefnsc/mcp-assets">
