@@ -1,14 +1,14 @@
 
 # Alexandre Fonseca
 
-- 🔭 Senior Cloud Analist at Accenture 🔭
+- 🔭 Senior Cloud Analist at Accenture
 - 🌱 Javascript Specialist 
 - 👯 Salesforce Marketing Cloud Personalization and Data Cloud Enthusiast
 - ⚡ CSJS | SSJS | Node.Js | React 
 
 
 <a href="https://github.com/alefnsc/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=false" />
 </a>
 <a href="https://github.com/alefnsc/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefnsc&theme=dark" />
