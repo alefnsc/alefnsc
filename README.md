@@ -25,8 +25,6 @@
             text-decoration: none;
         }
     </style>
-</head>
-<body>
     <div class="category">
         ### Social Media
         <div class="badge">
