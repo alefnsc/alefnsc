@@ -8,17 +8,17 @@
 
 
 <a href="https://github.com/alefnsc/">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alefnsc&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/alefnsc/">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefnsc&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefnsc&theme=dark" />
 </a>
 
 <a href="https://github.com/alefnsc/mcp-assets">
-  <img height=150 width=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=mcp-assets&theme=dark" />
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=mcp-assets&theme=dark" />
 </a>
 <a href="https://github.com/alefnsc/bookstore-api">
-  <img height=150 width=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=bookstore-api&theme=dark" />
+  <img height=150 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alefnsc&repo=bookstore-api&theme=dark" />
 </a>
 
 <a href="https://github.com/alefnsc/product-api">
