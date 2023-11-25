@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Alexandre 👋</h1>
-<h3 align="center">I have a Bachelor of Technology in System Development and Design. Currently i'm pursuing a postgraduate degree in Full-Stack Development.</h3>
+<h3 align="center">I have a Bachelor of Technology in System Development and Design. </h3>
+  <h2> Currently i'm pursuing a postgraduate degree in Full-Stack Development.</h2>
 
 - 🔭 Working as Salesforce Senior Solution Engineer @ [Accenture](https://www.accenture.com/).
 
