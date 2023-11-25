@@ -6,6 +6,9 @@
 
 - ⚡ At this momment i'm creating a strong portfolio to highlight my development skills!
 
+<br>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 [Linkedin](https://www.linkedin.com/in/alefnsc/)
