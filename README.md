@@ -1,12 +1,12 @@
 <h1 align="center">Hey there, I'm Alexandre 👋</h1>
 <h3 align="center">I have a Bachelor of Technology in System Development and Design. </h3>
-<h4 align="center"> Currently i'm pursuing a postgraduate degree in Full-Stack Development.</h4>
+<h4 align="center"> Currently pursuing a postgraduate degree in Full-Stack Development.</h4>
 
 </br>
 
 - 🔭 Working as Salesforce Senior Solution Engineer @ [Accenture](https://www.accenture.com/).
 
-- ⚡ At this momment i'm creating a strong portfolio to highlight my development skills!
+- ⚡ At this momment i'm creating a portfolio to highlight my development skills!
   
 </br>
 
