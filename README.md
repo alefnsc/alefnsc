@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Alexandre 👋</h1>
-<h3 align="center">I have a Bachelor of Technology in System Development and Design. </h3>
+<h3 align="center">I have a Bachelor of Technology in System Development, Design. </h3>
 <h4 align="center"> Currently pursuing a postgraduate degree in Full-Stack Development.</h4>
 
 </br>
