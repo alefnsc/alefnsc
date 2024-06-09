@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=alefnsc&color=blueviolet)
 
 ## 👨‍💻 About Me
 
@@ -10,16 +10,11 @@ I hold a Bachelor of Technology degree in System Development and Analysis, have 
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Java, Solidity, Rust, Ampscript
-- **Frontend:** React, HTML, CSS, SASS, Next.js, Vite
-- **Backend:** Node.js, Express, fastify, Apex
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+- **Languages:** JavaScript, Java, Solidity, Rust, Ampscript.
+- **Frontend:** React, HTML, CSS, SASS, Next.js, Vite, Lightning Web Components.
+- **Backend:** Node.js, Express, fastify, Apex.
+- **Databases:** MySQL, PostgreSQL, MongoDB.
+- **DevOps:** Docker, Kubernetes, Jenkins.
 
 ## 👇👇📫 Get in Touch
 
