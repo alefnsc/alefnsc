@@ -10,11 +10,11 @@ I hold a Bachelor of Technology degree in System Development and Analysis, have 
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Java, Solidity, Rust, Ampscript.
+- **Languages:** JavaScript, Java.
 - **Frontend:** React, HTML, CSS, SASS, Next.js, Vite, Lightning Web Components.
 - **Backend:** Node.js, Express, fastify, Apex.
 - **Databases:** MySQL, PostgreSQL, MongoDB.
-- **DevOps:** Docker, Kubernetes, Jenkins.
+- **DevOps:** Docker
 
 ## 👇👇📫 Get in Touch
 
