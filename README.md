@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alefnsc&color=blueviolet)
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm a Software Engineer with five years of experience.
 
@@ -11,7 +11,7 @@ I hold a Bachelor of Technology degree in System Development and Analysis, have 
 ## 🛠 Tech Stack
 
 - **Languages:** JavaScript, Java.
-- **Frontend:** React, HTML, CSS, SASS, Next.js, Vite, Lightning Web Components.
+- **Frontend:** React, Next.js, Vite, Tailwind, Lightning Web Components.
 - **Backend:** Node.js, Express, fastify, Apex.
 - **Databases:** MySQL, PostgreSQL, MongoDB.
 - **DevOps:** Docker
