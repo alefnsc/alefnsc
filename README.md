@@ -26,7 +26,7 @@ I hold a Bachelor of Technology degree in System Development and Analysis, have 
 
 ## 👇👇📫 Get in Touch
 
-- **Gmail:** [ale.a.fonseca@icloud.com](mailto:ale.a.fonseca@icloud.com)
+- **Email:** [ale.a.fonseca@icloud.com](mailto:ale.a.fonseca@icloud.com)
 - **LinkedIn:** [alefnsc](https://www.linkedin.com/in/alefnsc/)
 
 Feel free to reach out if you have any questions or just want to connect!
